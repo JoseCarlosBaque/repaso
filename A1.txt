@@ -4,3 +4,5 @@
 4- Añado los cambios con git add nombre del archivo.txt
 5- Hago un commit con git commit -m "nombre del commit"
 6- Pusheo los cambios con git push -u origin main en este caso a la rama main/master
+7- Hago cambios en remoto y los pusheo
+8- Y en local hago un pull con un git pull nombre del repositorio 
