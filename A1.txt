@@ -1,1 +1,7 @@
-Esto es para repasar
+1- Creo el repositorio en remoto
+2- Clono el repositorio con git clone nombre del repositorio
+3- Creo este archivo txt de manera local
+4- Añado los cambios con git add nombre del archivo.txt
+5- Hago un commit con git commit -m "nombre del commit"
+6- Pusheo los cambios con git push -u origin main en este caso a la ram
+   main/master
